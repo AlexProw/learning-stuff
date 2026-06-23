@@ -1,4 +1,4 @@
-
+#No son xargs son solo *args
 def suma(*numeros): #iterable
     resultado = 0
     for num in numeros:
